@@ -1,0 +1,1 @@
+SELECT SUM(ProductCount * Price) FROM Productse;

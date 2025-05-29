@@ -1,0 +1,1 @@
+SELECT AVG(Price * ProductCount) FROM Productse

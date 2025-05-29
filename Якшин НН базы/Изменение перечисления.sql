@@ -1,0 +1,1 @@
+ALTER TYPE request_state ADD VALUE 'blocked';

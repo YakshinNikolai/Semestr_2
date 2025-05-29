@@ -1,0 +1,1 @@
+SELECT STRING_AGG(DISTINCT Company,', ') FROM Productse;

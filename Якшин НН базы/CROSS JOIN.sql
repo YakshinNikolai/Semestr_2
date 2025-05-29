@@ -1,0 +1,1 @@
+SELECT * FROM Jim CROSS JOIN Thh;

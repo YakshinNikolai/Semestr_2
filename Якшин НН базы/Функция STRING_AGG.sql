@@ -1,0 +1,1 @@
+SELECT STRING_AGG(ProductName,', ') FROM Productse;

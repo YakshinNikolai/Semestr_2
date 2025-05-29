@@ -1,0 +1,1 @@
+SELECT BOOL_AND(IsDiscounted) FROM Productse;
